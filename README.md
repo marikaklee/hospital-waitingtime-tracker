@@ -22,6 +22,3 @@ cd waitingtime-tracker
 ```
 npm start
 ```
-
-# References
-https://geoportal.hawaii.gov/datasets/hospitals/api
